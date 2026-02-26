@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Piechu0401/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0780-reaching-points](https://github.com/Piechu0401/leetcode-solutions/tree/master/0780-reaching-points) |
 ## Array
 |  |
 | ------- |

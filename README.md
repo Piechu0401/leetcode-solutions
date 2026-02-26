@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Piechu0401/leetcode-solutions/tree/master/0068-text-justification) |
 | [0224-basic-calculator](https://github.com/Piechu0401/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piechu0401/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Piechu0401/leetcode-solutions/tree/master/0068-text-justification) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
 ## Doubly-Linked List
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Piechu0401/leetcode-solutions/tree/master/0224-basic-calculator) |
+## Array
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Piechu0401/leetcode-solutions/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->

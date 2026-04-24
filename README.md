@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Piechu0401/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piechu0401/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
+| [2833-furthest-point-from-origin](https://github.com/Piechu0401/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Stack
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/Piechu0401/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->

@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/Piechu0401/leetcode-solutions/tree/master/0068-text-justification) |
 | [0809-expressive-words](https://github.com/Piechu0401/leetcode-solutions/tree/master/0809-expressive-words) |
+| [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Piechu0401/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Two Pointers
 |  |
@@ -60,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Piechu0401/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Piechu0401/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Data Stream
 |  |
 | ------- |
@@ -103,4 +106,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Piechu0401/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

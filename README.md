@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Piechu0401/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2833-furthest-point-from-origin](https://github.com/Piechu0401/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Piechu0401/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Stack
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piechu0401/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Piechu0401/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Design
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Piechu0401/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Piechu0401/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Database
 |  |
 | ------- |

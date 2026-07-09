@@ -46,7 +46,7 @@ public:
             ) 
         };
 
-        cout << __b << " " << __e << " " << __max << "\n";
+        //cout << __b << " " << __e << " " << __max << "\n";
 
         __r->val = __ns[__max];
 
@@ -62,7 +62,7 @@ public:
 
         }
 
-        cout << "LEFT: " << __b << " " << __e << "\n";
+        //cout << "LEFT: " << __b << " " << __e << "\n";
 
         if( __max + 1 < __e ) {
             __r->right = new TreeNode(0);
@@ -76,7 +76,7 @@ public:
 
         }
 
-        cout << "RIGHT: " << __b << " " << __e << "\n";
+        //cout << "RIGHT: " << __b << " " << __e << "\n";
 
     }
 

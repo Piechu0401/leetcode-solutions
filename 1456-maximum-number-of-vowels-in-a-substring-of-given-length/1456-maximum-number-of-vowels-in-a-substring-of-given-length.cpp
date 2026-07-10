@@ -23,7 +23,7 @@ public:
 
         __max = __c;
 
-        for( int __i = __k; __i < __s.length(); ++__i ) {
+        for( int __i{__k}; __i < __s.length(); ++__i ) {
             if( 
                 __dq.front() == 'a' ||
                 __dq.front() == 'e' ||

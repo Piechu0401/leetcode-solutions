@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/Piechu0401/leetcode-solutions/tree/master/0177-nth-highest-salary) |
 | [0550-game-play-analysis-iv](https://github.com/Piechu0401/leetcode-solutions/tree/master/0550-game-play-analysis-iv) |
 | [0585-investments-in-2016](https://github.com/Piechu0401/leetcode-solutions/tree/master/0585-investments-in-2016) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Piechu0401/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Piechu0401/leetcode-solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1661-average-time-of-process-per-machine](https://github.com/Piechu0401/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [3497-analyze-subscription-conversion](https://github.com/Piechu0401/leetcode-solutions/tree/master/3497-analyze-subscription-conversion) |

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Piechu0401/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Piechu0401/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/Piechu0401/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Piechu0401/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piechu0401/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Piechu0401/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Piechu0401/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piechu0401/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 ## Math
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Piechu0401/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Piechu0401/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0809-expressive-words](https://github.com/Piechu0401/leetcode-solutions/tree/master/0809-expressive-words) |
 ## Sorting

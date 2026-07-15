@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-game-play-analysis-iv](https://github.com/Piechu0401/leetcode-solutions/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/Piechu0401/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/Piechu0401/leetcode-solutions/tree/master/0585-investments-in-2016) |
+| [0601-human-traffic-of-stadium](https://github.com/Piechu0401/leetcode-solutions/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Piechu0401/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0620-not-boring-movies](https://github.com/Piechu0401/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1070-product-sales-analysis-iii](https://github.com/Piechu0401/leetcode-solutions/tree/master/1070-product-sales-analysis-iii) |

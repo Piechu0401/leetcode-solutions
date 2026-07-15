@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Piechu0401/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0620-not-boring-movies](https://github.com/Piechu0401/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Piechu0401/leetcode-solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1321-restaurant-growth](https://github.com/Piechu0401/leetcode-solutions/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Piechu0401/leetcode-solutions/tree/master/1341-movie-rating) |
 | [1661-average-time-of-process-per-machine](https://github.com/Piechu0401/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1789-primary-department-for-each-employee](https://github.com/Piechu0401/leetcode-solutions/tree/master/1789-primary-department-for-each-employee) |

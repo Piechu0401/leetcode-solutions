@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/Piechu0401/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1693-daily-leads-and-partners](https://github.com/Piechu0401/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 | [1789-primary-department-for-each-employee](https://github.com/Piechu0401/leetcode-solutions/tree/master/1789-primary-department-for-each-employee) |
+| [1890-the-latest-login-in-2020](https://github.com/Piechu0401/leetcode-solutions/tree/master/1890-the-latest-login-in-2020) |
 | [3497-analyze-subscription-conversion](https://github.com/Piechu0401/leetcode-solutions/tree/master/3497-analyze-subscription-conversion) |
 ## Prefix Sum
 |  |

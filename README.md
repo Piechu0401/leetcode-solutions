@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/Piechu0401/leetcode-solutions/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Piechu0401/leetcode-solutions/tree/master/1341-movie-rating) |
 | [1661-average-time-of-process-per-machine](https://github.com/Piechu0401/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
+| [1693-daily-leads-and-partners](https://github.com/Piechu0401/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 | [1789-primary-department-for-each-employee](https://github.com/Piechu0401/leetcode-solutions/tree/master/1789-primary-department-for-each-employee) |
 | [3497-analyze-subscription-conversion](https://github.com/Piechu0401/leetcode-solutions/tree/master/3497-analyze-subscription-conversion) |
 ## Prefix Sum

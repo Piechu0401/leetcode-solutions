@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Piechu0401/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Piechu0401/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/Piechu0401/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/Piechu0401/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |

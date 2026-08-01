@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Piechu0401/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2079-watering-plants](https://github.com/Piechu0401/leetcode-solutions/tree/master/2079-watering-plants) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Doubly-Linked List
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Piechu0401/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Piechu0401/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piechu0401/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-reaching-points](https://github.com/Piechu0401/leetcode-solutions/tree/master/0780-reaching-points) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Piechu0401/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Piechu0401/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search Tree

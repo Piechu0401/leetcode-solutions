@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Piechu0401/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Piechu0401/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Piechu0401/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Piechu0401/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Piechu0401/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2191-sort-the-jumbled-numbers) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Piechu0401/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Piechu0401/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |

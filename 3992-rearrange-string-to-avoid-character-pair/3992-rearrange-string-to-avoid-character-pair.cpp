@@ -6,15 +6,13 @@ public:
         const char&     __y
     ) const noexcept {
         string __res{};
-        char __xc{};
-        char __yc{};
 
         for( auto& __c : __s )
-            if( __c == __x ) ++__xc;
-            else if( __c == __y ) ++__yc;
+            if( __c == __x ) __res += __x;
+            else if( __c == __y ) __res = __y + __res;
             else __res += __c;
         
-        return __res + string( __yc, __y ) + string( __xc, __x );
+        return __res;
 
     }
 };

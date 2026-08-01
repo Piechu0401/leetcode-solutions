@@ -17,7 +17,7 @@ public:
             ) return 1;
             else if( !( __n & 1 ) || !__n || __n == 1 ) return 0;
 
-            for( short __i{3}; __i <= sqrt( __n ); __i += 2 )
+            for( short __i{3}; __i <= ( __n >> 1 ); __i += 2 )
                 if( !( __n % __i ) ) return 0;
 
             return 1;

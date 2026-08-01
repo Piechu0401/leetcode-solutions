@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Piechu0401/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2079-watering-plants](https://github.com/Piechu0401/leetcode-solutions/tree/master/2079-watering-plants) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Piechu0401/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2810-faulty-keyboard](https://github.com/Piechu0401/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/Piechu0401/leetcode-solutions/tree/master/2079-watering-plants) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2191-sort-the-jumbled-numbers) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Piechu0401/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Piechu0401/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Piechu0401/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Piechu0401/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2191-sort-the-jumbled-numbers) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Piechu0401/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Piechu0401/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Piechu0401/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Data Stream
 |  |
 | ------- |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Piechu0401/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/Piechu0401/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/Piechu0401/leetcode-solutions/tree/master/1895-largest-magic-square) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Piechu0401/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Dynamic Programming
 |  |
 | ------- |

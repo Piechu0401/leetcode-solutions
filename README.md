@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Piechu0401/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2810-faulty-keyboard](https://github.com/Piechu0401/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Piechu0401/leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Doubly-Linked List
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Piechu0401/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Piechu0401/leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3790-smallest-all-ones-multiple](https://github.com/Piechu0401/leetcode-solutions/tree/master/3790-smallest-all-ones-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |

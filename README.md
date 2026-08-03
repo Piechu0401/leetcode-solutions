@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/Piechu0401/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0897-increasing-order-search-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Backtracking
 |  |
@@ -386,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Piechu0401/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

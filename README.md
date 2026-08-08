@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Piechu0401/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Piechu0401/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Piechu0401/leetcode-solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Piechu0401/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/Piechu0401/leetcode-solutions/tree/master/2810-faulty-keyboard) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Piechu0401/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Piechu0401/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2536-increment-submatrices-by-one](https://github.com/Piechu0401/leetcode-solutions/tree/master/2536-increment-submatrices-by-one) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Piechu0401/leetcode-solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Piechu0401/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Piechu0401/leetcode-solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Piechu0401/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Piechu0401/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2536-increment-submatrices-by-one](https://github.com/Piechu0401/leetcode-solutions/tree/master/2536-increment-submatrices-by-one) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Piechu0401/leetcode-solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Divide and Conquer
 |  |

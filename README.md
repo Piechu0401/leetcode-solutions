@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Piechu0401/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Piechu0401/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1765-map-of-highest-peak](https://github.com/Piechu0401/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Piechu0401/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1895-largest-magic-square](https://github.com/Piechu0401/leetcode-solutions/tree/master/1895-largest-magic-square) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Piechu0401/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1370-increasing-decreasing-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2032-two-out-of-three](https://github.com/Piechu0401/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
 | [0897-increasing-order-search-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2685-count-the-number-of-complete-components](https://github.com/Piechu0401/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |

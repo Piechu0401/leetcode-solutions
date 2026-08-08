@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Piechu0401/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Piechu0401/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Piechu0401/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3790-smallest-all-ones-multiple](https://github.com/Piechu0401/leetcode-solutions/tree/master/3790-smallest-all-ones-multiple) |
 ## Tree

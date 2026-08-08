@@ -6,8 +6,8 @@ public:
         vector<char> __used( __g.size() * __g.front().size(), 0 );
         int __res{};
 
-        for( short __i{}; __i < __g.size(); ++__i )
-            for( short __j{}; __j < __g.front().size(); ++__j ) {
+        for( short __i{1}; __i < __g.size() - 1; ++__i )
+            for( short __j{1}; __j < __g.front().size() - 1; ++__j ) {
                 // cout << __i << " " << __j << "\n";
                 
                 if(

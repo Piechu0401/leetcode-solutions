@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2191-sort-the-jumbled-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Piechu0401/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Piechu0401/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Piechu0401/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2536-increment-submatrices-by-one](https://github.com/Piechu0401/leetcode-solutions/tree/master/2536-increment-submatrices-by-one) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Piechu0401/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2191-sort-the-jumbled-numbers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Piechu0401/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Piechu0401/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Piechu0401/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/Piechu0401/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Piechu0401/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Piechu0401/leetcode-solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Piechu0401/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Piechu0401/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2833-furthest-point-from-origin](https://github.com/Piechu0401/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |

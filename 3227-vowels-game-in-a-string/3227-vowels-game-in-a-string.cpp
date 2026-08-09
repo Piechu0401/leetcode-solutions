@@ -15,9 +15,7 @@ public:
             ) ++__res;
 
         if( !__res ) return 0;
-        else if( __res & 1 ) return 1;
-
-        return 1;
+        else return 1;
         
     }
 };

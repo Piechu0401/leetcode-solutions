@@ -14,8 +14,7 @@ public:
                 __c == 'u'
             ) ++__res;
 
-        if( !__res ) return 0;
-        else return 1;
+        return __res; 
         
     }
 };

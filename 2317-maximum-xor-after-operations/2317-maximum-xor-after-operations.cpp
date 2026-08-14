@@ -3,22 +3,25 @@ public:
     inline const int maximumXOR(
         const vector<int>& __ns
     ) const noexcept {
+        char __bits[32]{};
         int __res{};
-        int __p{1};
-        int __max{};
 
-        for( auto& __n : __ns ) __max = ( __max < __n ? __n : __max );
+        for( auto& __n : __ns ) {
+            int __p{1};
+            int __idx{};
 
-        while( __p <= __max ) {
-            char __is{};
+            while( __p <= __n ) {
+                if( __n & __p ) __bits[__idx] = 1;
 
-            for( auto& __n : __ns ) if( __n & __p ) __is = 1;
+                __p <<= 1;
+                ++__idx;
 
-            if( __is ) __res += __p;
-
-            __p <<= 1;
+            }
 
         }
+
+        for( char __i{}; __i < 32; ++__i )
+            if( __bits[__i] ) __res += ( 1 << __i );
 
         return __res;
         

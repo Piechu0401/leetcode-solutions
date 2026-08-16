@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-maximum-xor-after-operations](https://github.com/Piechu0401/leetcode-solutions/tree/master/2317-maximum-xor-after-operations) |
 | [3227-vowels-game-in-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Piechu0401/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Piechu0401/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Piechu0401/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Piechu0401/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Piechu0401/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Piechu0401/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Piechu0401/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix

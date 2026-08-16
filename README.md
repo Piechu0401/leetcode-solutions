@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Piechu0401/leetcode-solutions/tree/master/0068-text-justification) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Piechu0401/leetcode-solutions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1260-shift-2d-grid](https://github.com/Piechu0401/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1701-average-waiting-time](https://github.com/Piechu0401/leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Piechu0401/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-expressive-words](https://github.com/Piechu0401/leetcode-solutions/tree/master/0809-expressive-words) |
 | [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1020-number-of-enclaves](https://github.com/Piechu0401/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Piechu0401/leetcode-solutions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1260-shift-2d-grid](https://github.com/Piechu0401/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Piechu0401/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Piechu0401/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/Piechu0401/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Piechu0401/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Piechu0401/leetcode-solutions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1260-shift-2d-grid](https://github.com/Piechu0401/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/Piechu0401/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/Piechu0401/leetcode-solutions/tree/master/1895-largest-magic-square) |

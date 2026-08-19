@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Piechu0401/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2405-optimal-partition-of-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Piechu0401/leetcode-solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Piechu0401/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Piechu0401/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2405-optimal-partition-of-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Piechu0401/leetcode-solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piechu0401/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Piechu0401/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piechu0401/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2405-optimal-partition-of-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Piechu0401/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Piechu0401/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

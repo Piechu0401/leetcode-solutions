@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-sentence-similarity-iii](https://github.com/Piechu0401/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piechu0401/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Piechu0401/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Piechu0401/leetcode-solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Piechu0401/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/Piechu0401/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piechu0401/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Piechu0401/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Design
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-minimum-suffix-flips](https://github.com/Piechu0401/leetcode-solutions/tree/master/1529-minimum-suffix-flips) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Piechu0401/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piechu0401/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Piechu0401/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Piechu0401/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Piechu0401/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Trie
 |  |
 | ------- |

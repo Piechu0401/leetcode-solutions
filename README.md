@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Piechu0401/leetcode-solutions/tree/master/0068-text-justification) |
 | [1041-robot-bounded-in-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Piechu0401/leetcode-solutions/tree/master/1222-queens-that-can-attack-the-king) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Piechu0401/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Piechu0401/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1701-average-waiting-time](https://github.com/Piechu0401/leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Piechu0401/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Piechu0401/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0780-reaching-points](https://github.com/Piechu0401/leetcode-solutions/tree/master/0780-reaching-points) |
 | [1041-robot-bounded-in-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Piechu0401/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Piechu0401/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Piechu0401/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1020-number-of-enclaves](https://github.com/Piechu0401/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Piechu0401/leetcode-solutions/tree/master/1222-queens-that-can-attack-the-king) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Piechu0401/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Piechu0401/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Piechu0401/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Piechu0401/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |

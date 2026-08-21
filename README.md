@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Piechu0401/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Piechu0401/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Piechu0401/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Piechu0401/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Piechu0401/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/Piechu0401/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1424-diagonal-traverse-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/Piechu0401/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Piechu0401/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Piechu0401/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Piechu0401/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/Piechu0401/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Piechu0401/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2032-two-out-of-three](https://github.com/Piechu0401/leetcode-solutions/tree/master/2032-two-out-of-three) |

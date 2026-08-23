@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Piechu0401/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Piechu0401/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -542,4 +543,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piechu0401/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Geometry
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
+## Randomized
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->

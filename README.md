@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Piechu0401/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0780-reaching-points](https://github.com/Piechu0401/leetcode-solutions/tree/master/0780-reaching-points) |
+| [0810-chalkboard-xor-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [1041-robot-bounded-in-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Piechu0401/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Piechu0401/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Piechu0401/leetcode-solutions/tree/master/0794-valid-tic-tac-toe-state) |
 | [0809-expressive-words](https://github.com/Piechu0401/leetcode-solutions/tree/master/0809-expressive-words) |
+| [0810-chalkboard-xor-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1020-number-of-enclaves](https://github.com/Piechu0401/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Piechu0401/leetcode-solutions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Piechu0401/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0810-chalkboard-xor-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Piechu0401/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/Piechu0401/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Piechu0401/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -534,10 +537,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0810-chalkboard-xor-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [3227-vowels-game-in-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
+| [0810-chalkboard-xor-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [3227-vowels-game-in-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Bracket Sequences
 |  |
@@ -555,4 +560,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->

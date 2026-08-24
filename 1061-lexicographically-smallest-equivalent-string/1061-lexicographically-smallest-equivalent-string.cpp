@@ -13,7 +13,15 @@ public:
 
         }
 
+        unordered_map<char, char> __used;
+
         for( auto& __c : __bs ) {
+            if( __used.count( __c ) ) {
+                __c = __used[__c];
+                continue;
+
+            }
+
             char __min{ __c };
             char __letts[26]{};
 
@@ -34,6 +42,7 @@ public:
 
             }
 
+            __used[__c] = __min;
             __c = __min;
 
         }

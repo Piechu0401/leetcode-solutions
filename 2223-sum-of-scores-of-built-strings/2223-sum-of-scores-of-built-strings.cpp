@@ -2,7 +2,7 @@ class Solution {
 public:
     inline const long long sumScores(
         string& __s
-    ) const noexcept {
+    ) const noexcept {      // fuck the author of this shit
         long long __res{};
         string_view __svs( __s );
 

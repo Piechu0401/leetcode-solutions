@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Piechu0401/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2810-faulty-keyboard](https://github.com/Piechu0401/leetcode-solutions/tree/master/2810-faulty-keyboard) |
+| [3100-water-bottles-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3100-water-bottles-ii) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Piechu0401/leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2317-maximum-xor-after-operations](https://github.com/Piechu0401/leetcode-solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Piechu0401/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3100-water-bottles-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3100-water-bottles-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Piechu0401/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Piechu0401/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |

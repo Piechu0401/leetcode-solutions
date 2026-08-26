@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Piechu0401/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2317-maximum-xor-after-operations](https://github.com/Piechu0401/leetcode-solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Piechu0401/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2354-number-of-excellent-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2354-number-of-excellent-pairs) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Piechu0401/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Piechu0401/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Piechu0401/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Piechu0401/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2354-number-of-excellent-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2354-number-of-excellent-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Piechu0401/leetcode-solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/Piechu0401/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2317-maximum-xor-after-operations](https://github.com/Piechu0401/leetcode-solutions/tree/master/2317-maximum-xor-after-operations) |
+| [2354-number-of-excellent-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2354-number-of-excellent-pairs) |
 | [2683-neighboring-bitwise-xor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2683-neighboring-bitwise-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Piechu0401/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0897-increasing-order-search-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Piechu0401/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2354-number-of-excellent-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2354-number-of-excellent-pairs) |
 ## Backtracking
 |  |
 | ------- |

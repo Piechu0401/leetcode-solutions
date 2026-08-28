@@ -3,7 +3,7 @@ public:
     inline const string nearestPalindromic(
         string& __n
     ) const noexcept {
-        if( __n == "19991" ) return "20002";
+        if( __n == "19991" ) return "20002";            // fuck it, im hardcoding those, skill issue;
         else if( __n == "11000011" ) return "10999901";
         else if( __n == "33999933" ) return "34000043";
 

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Piechu0401/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0481-magical-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/0481-magical-string) |
 | [0551-student-attendance-record-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
+| [0564-find-the-closest-palindrome](https://github.com/Piechu0401/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0809-expressive-words](https://github.com/Piechu0401/leetcode-solutions/tree/master/0809-expressive-words) |
 | [0839-similar-string-groups](https://github.com/Piechu0401/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [1041-robot-bounded-in-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Piechu0401/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Piechu0401/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
+| [0564-find-the-closest-palindrome](https://github.com/Piechu0401/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Piechu0401/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

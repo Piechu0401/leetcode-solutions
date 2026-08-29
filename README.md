@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Piechu0401/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Piechu0401/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Piechu0401/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Piechu0401/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1701-average-waiting-time](https://github.com/Piechu0401/leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Piechu0401/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1424-diagonal-traverse-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Piechu0401/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2191-sort-the-jumbled-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Piechu0401/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Piechu0401/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/Piechu0401/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1529-minimum-suffix-flips](https://github.com/Piechu0401/leetcode-solutions/tree/master/1529-minimum-suffix-flips) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Piechu0401/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Piechu0401/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piechu0401/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |

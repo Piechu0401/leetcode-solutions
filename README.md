@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3646-next-special-palindrome-number](https://github.com/Piechu0401/leetcode-solutions/tree/master/3646-next-special-palindrome-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Piechu0401/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search Tree
 |  |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Piechu0401/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [1286-iterator-for-combination](https://github.com/Piechu0401/leetcode-solutions/tree/master/1286-iterator-for-combination) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |
+| [3646-next-special-palindrome-number](https://github.com/Piechu0401/leetcode-solutions/tree/master/3646-next-special-palindrome-number) |
 ## Trie
 |  |
 | ------- |

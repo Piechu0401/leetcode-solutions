@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Piechu0401/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
+| [2081-sum-of-k-mirror-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2081-sum-of-k-mirror-numbers) |
 | [2317-maximum-xor-after-operations](https://github.com/Piechu0401/leetcode-solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Piechu0401/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3100-water-bottles-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3100-water-bottles-ii) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Piechu0401/leetcode-solutions/tree/master/1291-sequential-digits) |
+| [2081-sum-of-k-mirror-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2081-sum-of-k-mirror-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3272-find-the-count-of-good-integers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3272-find-the-count-of-good-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |

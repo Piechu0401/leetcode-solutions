@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Piechu0401/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
+| [0679-24-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Piechu0401/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0780-reaching-points](https://github.com/Piechu0401/leetcode-solutions/tree/master/0780-reaching-points) |
 | [0810-chalkboard-xor-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Piechu0401/leetcode-solutions/tree/master/0565-array-nesting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+| [0679-24-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0679-24-game) |
 | [0697-degree-of-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Piechu0401/leetcode-solutions/tree/master/0794-valid-tic-tac-toe-state) |
 | [0809-expressive-words](https://github.com/Piechu0401/leetcode-solutions/tree/master/0809-expressive-words) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Piechu0401/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Piechu0401/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0679-24-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0679-24-game) |
 | [1286-iterator-for-combination](https://github.com/Piechu0401/leetcode-solutions/tree/master/1286-iterator-for-combination) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3646-next-special-palindrome-number](https://github.com/Piechu0401/leetcode-solutions/tree/master/3646-next-special-palindrome-number) |

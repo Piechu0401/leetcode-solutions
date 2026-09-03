@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/0481-magical-string) |
 | [0551-student-attendance-record-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0564-find-the-closest-palindrome](https://github.com/Piechu0401/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
+| [0726-number-of-atoms](https://github.com/Piechu0401/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0809-expressive-words](https://github.com/Piechu0401/leetcode-solutions/tree/master/0809-expressive-words) |
 | [0839-similar-string-groups](https://github.com/Piechu0401/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [1041-robot-bounded-in-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Piechu0401/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+| [0726-number-of-atoms](https://github.com/Piechu0401/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0895-maximum-frequency-stack](https://github.com/Piechu0401/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0897-increasing-order-search-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piechu0401/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Piechu0401/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0561-array-partition](https://github.com/Piechu0401/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0726-number-of-atoms](https://github.com/Piechu0401/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Piechu0401/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Piechu0401/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Piechu0401/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0697-degree-of-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0697-degree-of-an-array) |
+| [0726-number-of-atoms](https://github.com/Piechu0401/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0839-similar-string-groups](https://github.com/Piechu0401/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0895-maximum-frequency-stack](https://github.com/Piechu0401/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |

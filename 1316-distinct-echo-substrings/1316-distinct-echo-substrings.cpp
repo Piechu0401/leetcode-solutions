@@ -11,7 +11,7 @@ public:
 
         string_view __t = __temp;
         unordered_set<string_view> __us;
-        short   __size{1};
+        short   __size{2};
         int     __res{};
 
         while( __size <= __t.length() ) {
@@ -37,7 +37,7 @@ public:
                 }
             // no point in checking odd lengths
 
-            ++__size;
+            __size += 2;
 
         }
 

@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/Piechu0401/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1286-iterator-for-combination](https://github.com/Piechu0401/leetcode-solutions/tree/master/1286-iterator-for-combination) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Piechu0401/leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1316-distinct-echo-substrings](https://github.com/Piechu0401/leetcode-solutions/tree/master/1316-distinct-echo-substrings) |
 | [1370-increasing-decreasing-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Piechu0401/leetcode-solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -602,10 +603,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [1316-distinct-echo-substrings](https://github.com/Piechu0401/leetcode-solutions/tree/master/1316-distinct-echo-substrings) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
+| [1316-distinct-echo-substrings](https://github.com/Piechu0401/leetcode-solutions/tree/master/1316-distinct-echo-substrings) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Piechu0401/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## String Matching
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [1316-distinct-echo-substrings](https://github.com/Piechu0401/leetcode-solutions/tree/master/1316-distinct-echo-substrings) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Piechu0401/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Interactive
@@ -687,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Suffix Array
 |  |
 | ------- |
+| [1316-distinct-echo-substrings](https://github.com/Piechu0401/leetcode-solutions/tree/master/1316-distinct-echo-substrings) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Piechu0401/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Z Algorithm
 |  |
@@ -712,4 +717,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Piechu0401/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1316-distinct-echo-substrings](https://github.com/Piechu0401/leetcode-solutions/tree/master/1316-distinct-echo-substrings) |
+## Suffix Tree
+|  |
+| ------- |
+| [1316-distinct-echo-substrings](https://github.com/Piechu0401/leetcode-solutions/tree/master/1316-distinct-echo-substrings) |
 <!---LeetCode Topics End-->

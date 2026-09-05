@@ -29,7 +29,6 @@ public:
 
                     if( __valid && !__us.count( __t.substr( __i, __size ) ) ) {
                         ++__res;
-                        __us.erase( __t.substr( __i, ( __size >> 1 ) ) );
                         __us.insert( __t.substr( __i, __size ) );
 
                     }

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Piechu0401/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0809-expressive-words](https://github.com/Piechu0401/leetcode-solutions/tree/master/0809-expressive-words) |
 | [0839-similar-string-groups](https://github.com/Piechu0401/leetcode-solutions/tree/master/0839-similar-string-groups) |
+| [0972-equal-rational-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/0972-equal-rational-numbers) |
 | [1041-robot-bounded-in-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piechu0401/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Piechu0401/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0780-reaching-points](https://github.com/Piechu0401/leetcode-solutions/tree/master/0780-reaching-points) |
 | [0810-chalkboard-xor-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
+| [0972-equal-rational-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/0972-equal-rational-numbers) |
 | [1041-robot-bounded-in-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Piechu0401/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |

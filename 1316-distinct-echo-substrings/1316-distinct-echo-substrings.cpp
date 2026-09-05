@@ -35,10 +35,7 @@ public:
                     }
 
                 }
-            else // no point in checking odd lengths
-                for( short __i{}; __i <= __t.length() - __size; ++__i )
-                    if( !__us.count( __t.substr( __i, __size ) ) )
-                        __us.insert( __t.substr( __i, __size ) );
+            // no point in checking odd lengths
 
             ++__size;
 

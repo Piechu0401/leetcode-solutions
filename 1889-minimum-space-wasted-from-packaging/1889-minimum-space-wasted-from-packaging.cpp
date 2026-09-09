@@ -18,7 +18,11 @@ public:
         for( auto& __b : __bs ) {
             sort( __b.begin(), __b.end() );
 
-            if( __b.back() < __ps.back() ) { cout << "lol\n"; continue; }
+            if( __b.back() < __ps.back() ) { 
+                //cout << "lol\n"; 
+                continue; 
+                
+            }
             
             long long __total{};
             int __prev{-1};

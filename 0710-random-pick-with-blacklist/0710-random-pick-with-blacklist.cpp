@@ -26,7 +26,7 @@ public:
 
             }
 
-            cout << __allowed.back().first << " " << __allowed.back().second << "\n";
+            // cout << __allowed.back().first << " " << __allowed.back().second << "\n";
 
         }
 
@@ -35,7 +35,7 @@ public:
                 __bl.back() + 1 > ( !__n ? 0 : __n - 1 ) ? ( !__n ? 0 : __n - 1 ) : __bl.back() + 1,
                 ( !__n ? 0 : __n - 1 ) < __bl.back() + 1 ? __bl.back() + 1 : ( !__n ? 0 : __n - 1 )
             } );
-            cout << __allowed.back().first << " " << __allowed.back().second << "\n";
+            // cout << __allowed.back().first << " " << __allowed.back().second << "\n";
 
         }
 

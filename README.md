@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piechu0401/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-linked-list-in-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1905-count-sub-islands](https://github.com/Piechu0401/leetcode-solutions/tree/master/1905-count-sub-islands) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piechu0401/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Piechu0401/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piechu0401/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Counting
 |  |
 | ------- |

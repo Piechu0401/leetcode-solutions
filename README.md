@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Piechu0401/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Piechu0401/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/Piechu0401/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Piechu0401/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Piechu0401/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0895-maximum-frequency-stack](https://github.com/Piechu0401/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [1286-iterator-for-combination](https://github.com/Piechu0401/leetcode-solutions/tree/master/1286-iterator-for-combination) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Piechu0401/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Piechu0401/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Piechu0401/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Piechu0401/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Piechu0401/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Piechu0401/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Piechu0401/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0697-degree-of-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0710-random-pick-with-blacklist](https://github.com/Piechu0401/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Piechu0401/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0839-similar-string-groups](https://github.com/Piechu0401/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [1020-number-of-enclaves](https://github.com/Piechu0401/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
@@ -606,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Piechu0401/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0278-first-bad-version](https://github.com/Piechu0401/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Piechu0401/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0710-random-pick-with-blacklist](https://github.com/Piechu0401/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0897-increasing-order-search-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/Piechu0401/leetcode-solutions/tree/master/1889-minimum-space-wasted-from-packaging) |
@@ -739,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Piechu0401/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0895-maximum-frequency-stack](https://github.com/Piechu0401/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 ## Suffix Automaton
 |  |

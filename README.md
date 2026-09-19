@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/Piechu0401/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Piechu0401/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Piechu0401/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Piechu0401/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3272-find-the-count-of-good-integers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3272-find-the-count-of-good-integers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3790-smallest-all-ones-multiple](https://github.com/Piechu0401/leetcode-solutions/tree/master/3790-smallest-all-ones-multiple) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3272-find-the-count-of-good-integers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3272-find-the-count-of-good-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory

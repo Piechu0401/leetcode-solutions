@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/Piechu0401/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3227-vowels-game-in-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Piechu0401/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/Piechu0401/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3100-water-bottles-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3100-water-bottles-ii) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Piechu0401/leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Doubly-Linked List

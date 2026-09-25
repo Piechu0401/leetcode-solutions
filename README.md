@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/Piechu0401/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0672-bulb-switcher-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Piechu0401/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0810-chalkboard-xor-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Piechu0401/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Piechu0401/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/Piechu0401/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0679-24-game) |
 | [1286-iterator-for-combination](https://github.com/Piechu0401/leetcode-solutions/tree/master/1286-iterator-for-combination) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Piechu0401/leetcode-solutions/tree/master/2014-longest-subsequence-repeated-k-times) |

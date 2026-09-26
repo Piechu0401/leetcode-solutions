@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Piechu0401/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1529-minimum-suffix-flips](https://github.com/Piechu0401/leetcode-solutions/tree/master/1529-minimum-suffix-flips) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Piechu0401/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-sentence-similarity-iii](https://github.com/Piechu0401/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piechu0401/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Piechu0401/leetcode-solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/Piechu0401/leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1765-map-of-highest-peak](https://github.com/Piechu0401/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-sentence-similarity-iii](https://github.com/Piechu0401/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Piechu0401/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/Piechu0401/leetcode-solutions/tree/master/1889-minimum-space-wasted-from-packaging) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Piechu0401/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Piechu0401/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Piechu0401/leetcode-solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2032-two-out-of-three](https://github.com/Piechu0401/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |

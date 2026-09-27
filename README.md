@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piechu0401/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piechu0401/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1286-iterator-for-combination](https://github.com/Piechu0401/leetcode-solutions/tree/master/1286-iterator-for-combination) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Piechu0401/leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1316-distinct-echo-substrings](https://github.com/Piechu0401/leetcode-solutions/tree/master/1316-distinct-echo-substrings) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Piechu0401/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0897-increasing-order-search-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piechu0401/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piechu0401/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piechu0401/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piechu0401/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piechu0401/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Geometry
 |  |

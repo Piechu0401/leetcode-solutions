@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-count-vowel-strings-in-ranges](https://github.com/Piechu0401/leetcode-solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Piechu0401/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2670-find-the-distinct-difference-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2683-neighboring-bitwise-xor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2683-neighboring-bitwise-xor) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Piechu0401/leetcode-solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Piechu0401/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2354-number-of-excellent-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2354-number-of-excellent-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2502-design-memory-allocator](https://github.com/Piechu0401/leetcode-solutions/tree/master/2502-design-memory-allocator) |
+| [2670-find-the-distinct-difference-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Piechu0401/leetcode-solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piechu0401/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

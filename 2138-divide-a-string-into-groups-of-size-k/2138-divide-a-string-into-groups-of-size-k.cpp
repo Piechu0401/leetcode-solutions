@@ -9,8 +9,8 @@ public:
         char __i{};
 
         while( __i < __s.length() ) {
-            if( __s.length() - __i >= __k ) __res.push_back( __s.substr( __i, __k ) );
-            else __res.push_back( 
+            if( __s.length() - __i >= __k ) __res.emplace_back( __s.substr( __i, __k ) );
+            else __res.emplace_back( 
                 __s.substr( __i, __s.length() - __i ) + 
                 string( __k - ( __s.length() - __i ), __f ) 
             );

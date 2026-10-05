@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-sentence-similarity-iii](https://github.com/Piechu0401/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piechu0401/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Piechu0401/leetcode-solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Piechu0401/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/Piechu0401/leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Piechu0401/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2079-watering-plants](https://github.com/Piechu0401/leetcode-solutions/tree/master/2079-watering-plants) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Piechu0401/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2502-design-memory-allocator](https://github.com/Piechu0401/leetcode-solutions/tree/master/2502-design-memory-allocator) |

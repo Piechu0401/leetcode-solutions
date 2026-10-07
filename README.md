@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Piechu0401/leetcode-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Piechu0401/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Piechu0401/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0165-compare-version-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/Piechu0401/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0301-remove-invalid-parentheses](https://github.com/Piechu0401/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0481-magical-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/0481-magical-string) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/Piechu0401/leetcode-solutions/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Piechu0401/leetcode-solutions/tree/master/0148-sort-list) |
+| [0165-compare-version-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Piechu0401/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Piechu0401/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0481-magical-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/0481-magical-string) |

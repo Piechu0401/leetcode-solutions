@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piechu0401/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Piechu0401/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0972-equal-rational-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/0972-equal-rational-numbers) |
+| [1021-remove-outermost-parentheses](https://github.com/Piechu0401/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piechu0401/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Piechu0401/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0897-increasing-order-search-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piechu0401/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Piechu0401/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piechu0401/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piechu0401/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piechu0401/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Piechu0401/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Piechu0401/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piechu0401/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Piechu0401/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piechu0401/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piechu0401/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piechu0401/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |

@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2191-sort-the-jumbled-numbers) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Piechu0401/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2317-maximum-xor-after-operations](https://github.com/Piechu0401/leetcode-solutions/tree/master/2317-maximum-xor-after-operations) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-sentence-similarity-iii](https://github.com/Piechu0401/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piechu0401/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Piechu0401/leetcode-solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Piechu0401/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting

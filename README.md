@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-iterator-for-combination](https://github.com/Piechu0401/leetcode-solutions/tree/master/1286-iterator-for-combination) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
 | [2502-design-memory-allocator](https://github.com/Piechu0401/leetcode-solutions/tree/master/2502-design-memory-allocator) |
+| [3508-implement-router](https://github.com/Piechu0401/leetcode-solutions/tree/master/3508-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Piechu0401/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3508-implement-router](https://github.com/Piechu0401/leetcode-solutions/tree/master/3508-implement-router) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Piechu0401/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Piechu0401/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3272-find-the-count-of-good-integers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3272-find-the-count-of-good-integers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3508-implement-router](https://github.com/Piechu0401/leetcode-solutions/tree/master/3508-implement-router) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3790-smallest-all-ones-multiple](https://github.com/Piechu0401/leetcode-solutions/tree/master/3790-smallest-all-ones-multiple) |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-minimum-space-wasted-from-packaging](https://github.com/Piechu0401/leetcode-solutions/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Piechu0401/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2354-number-of-excellent-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2354-number-of-excellent-pairs) |
+| [3508-implement-router](https://github.com/Piechu0401/leetcode-solutions/tree/master/3508-implement-router) |
 ## Backtracking
 |  |
 | ------- |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3508-implement-router](https://github.com/Piechu0401/leetcode-solutions/tree/master/3508-implement-router) |
 ## Brainteaser
 |  |
 | ------- |
@@ -819,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Piechu0401/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0895-maximum-frequency-stack](https://github.com/Piechu0401/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
+| [3508-implement-router](https://github.com/Piechu0401/leetcode-solutions/tree/master/3508-implement-router) |
 ## Suffix Automaton
 |  |
 | ------- |

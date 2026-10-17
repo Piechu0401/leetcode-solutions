@@ -22,6 +22,7 @@ public:
         for( auto& __e : __es ) __um[__e->id] = { __e->importance, __e->subordinates };
 
         __q.push( __id );
+        __used.insert( __id );
 
         while( __q.size() ) {
             __res += __um[__q.front()].first;

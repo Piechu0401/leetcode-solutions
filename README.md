@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0679-24-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0679-24-game) |
+| [0690-employee-importance](https://github.com/Piechu0401/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0710-random-pick-with-blacklist](https://github.com/Piechu0401/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Piechu0401/leetcode-solutions/tree/master/0794-valid-tic-tac-toe-state) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Piechu0401/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Piechu0401/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0609-find-duplicate-file-in-system](https://github.com/Piechu0401/leetcode-solutions/tree/master/0609-find-duplicate-file-in-system) |
+| [0690-employee-importance](https://github.com/Piechu0401/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0710-random-pick-with-blacklist](https://github.com/Piechu0401/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0726-number-of-atoms](https://github.com/Piechu0401/leetcode-solutions/tree/master/0726-number-of-atoms) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Piechu0401/leetcode-solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Piechu0401/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+| [0690-employee-importance](https://github.com/Piechu0401/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0897-increasing-order-search-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Piechu0401/leetcode-solutions/tree/master/0565-array-nesting) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Piechu0401/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0672-bulb-switcher-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
+| [0690-employee-importance](https://github.com/Piechu0401/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0839-similar-string-groups](https://github.com/Piechu0401/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0897-increasing-order-search-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Piechu0401/leetcode-solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0542-01-matrix](https://github.com/Piechu0401/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0672-bulb-switcher-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
+| [0690-employee-importance](https://github.com/Piechu0401/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0839-similar-string-groups](https://github.com/Piechu0401/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Piechu0401/leetcode-solutions/tree/master/1020-number-of-enclaves) |

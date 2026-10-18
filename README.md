@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Piechu0401/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0809-expressive-words](https://github.com/Piechu0401/leetcode-solutions/tree/master/0809-expressive-words) |
 | [0839-similar-string-groups](https://github.com/Piechu0401/leetcode-solutions/tree/master/0839-similar-string-groups) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Piechu0401/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piechu0401/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Piechu0401/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0972-equal-rational-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/0972-equal-rational-numbers) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/Piechu0401/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0726-number-of-atoms](https://github.com/Piechu0401/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0839-similar-string-groups](https://github.com/Piechu0401/leetcode-solutions/tree/master/0839-similar-string-groups) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Piechu0401/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0895-maximum-frequency-stack](https://github.com/Piechu0401/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Piechu0401/leetcode-solutions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Piechu0401/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1370-increasing-decreasing-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Piechu0401/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Piechu0401/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |

@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Piechu0401/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/Piechu0401/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Piechu0401/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Piechu0401/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Piechu0401/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/Piechu0401/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0895-maximum-frequency-stack](https://github.com/Piechu0401/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Piechu0401/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Piechu0401/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Piechu0401/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0564-find-the-closest-palindrome](https://github.com/Piechu0401/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Piechu0401/leetcode-solutions/tree/master/0068-text-justification) |
 | [0152-maximum-product-subarray](https://github.com/Piechu0401/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0334-increasing-triplet-subsequence](https://github.com/Piechu0401/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Piechu0401/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Piechu0401/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0427-construct-quad-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0436-find-right-interval](https://github.com/Piechu0401/leetcode-solutions/tree/master/0436-find-right-interval) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Piechu0401/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Piechu0401/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Piechu0401/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Piechu0401/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Piechu0401/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/Piechu0401/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0609-find-duplicate-file-in-system](https://github.com/Piechu0401/leetcode-solutions/tree/master/0609-find-duplicate-file-in-system) |
@@ -786,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Piechu0401/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Piechu0401/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0710-random-pick-with-blacklist](https://github.com/Piechu0401/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |

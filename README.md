@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/Piechu0401/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2032-two-out-of-three](https://github.com/Piechu0401/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2079-watering-plants](https://github.com/Piechu0401/leetcode-solutions/tree/master/2079-watering-plants) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2191-sort-the-jumbled-numbers) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-diagonal-traverse-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Piechu0401/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/Piechu0401/leetcode-solutions/tree/master/1889-minimum-space-wasted-from-packaging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2191-sort-the-jumbled-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Piechu0401/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piechu0401/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/Piechu0401/leetcode-solutions/tree/master/1889-minimum-space-wasted-from-packaging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Piechu0401/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2354-number-of-excellent-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/2354-number-of-excellent-pairs) |
 | [3508-implement-router](https://github.com/Piechu0401/leetcode-solutions/tree/master/3508-implement-router) |

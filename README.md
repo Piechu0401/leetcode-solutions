@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Piechu0401/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Piechu0401/leetcode-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Piechu0401/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Piechu0401/leetcode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Piechu0401/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [1367-linked-list-in-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Piechu0401/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Piechu0401/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Piechu0401/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Piechu0401/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/Piechu0401/leetcode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Piechu0401/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0895-maximum-frequency-stack](https://github.com/Piechu0401/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [1286-iterator-for-combination](https://github.com/Piechu0401/leetcode-solutions/tree/master/1286-iterator-for-combination) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Piechu0401/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/Piechu0401/leetcode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Piechu0401/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
 ## Recursion
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Piechu0401/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Piechu0401/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Piechu0401/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/Piechu0401/leetcode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Piechu0401/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0609-find-duplicate-file-in-system](https://github.com/Piechu0401/leetcode-solutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0690-employee-importance](https://github.com/Piechu0401/leetcode-solutions/tree/master/0690-employee-importance) |

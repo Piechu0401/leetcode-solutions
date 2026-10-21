@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Array
 |  |
 | ------- |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Piechu0401/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3913-sort-vowels-by-frequency](https://github.com/Piechu0401/leetcode-solutions/tree/master/3913-sort-vowels-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |

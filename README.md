@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Piechu0401/leetcode-solutions/tree/master/0068-text-justification) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Piechu0401/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1041-robot-bounded-in-circle](https://github.com/Piechu0401/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Piechu0401/leetcode-solutions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Piechu0401/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/Piechu0401/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Piechu0401/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Piechu0401/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piechu0401/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Piechu0401/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Piechu0401/leetcode-solutions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/Piechu0401/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0726-number-of-atoms](https://github.com/Piechu0401/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Piechu0401/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Piechu0401/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1424-diagonal-traverse-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Piechu0401/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-implement-router](https://github.com/Piechu0401/leetcode-solutions/tree/master/3508-implement-router) |
 ## Brainteaser

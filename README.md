@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3508-implement-router](https://github.com/Piechu0401/leetcode-solutions/tree/master/3508-implement-router) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Piechu0401/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Piechu0401/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/Piechu0401/leetcode-solutions/tree/master/1905-count-sub-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piechu0401/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Piechu0401/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Piechu0401/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Piechu0401/leetcode-solutions/tree/master/1905-count-sub-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Piechu0401/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1905-count-sub-islands](https://github.com/Piechu0401/leetcode-solutions/tree/master/1905-count-sub-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Piechu0401/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Piechu0401/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2536-increment-submatrices-by-one](https://github.com/Piechu0401/leetcode-solutions/tree/master/2536-increment-submatrices-by-one) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Piechu0401/leetcode-solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piechu0401/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |

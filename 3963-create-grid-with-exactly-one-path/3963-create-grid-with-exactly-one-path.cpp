@@ -6,13 +6,10 @@ public:
     ) const noexcept {
         vector<string> __res(
             __m,
-            string( __n, '#' )
+            string( __n - 1, '#' ) + "."
         );
 
         __res.front() = string( __n, '.' );
-
-        for( char __i{1}; __i < __m; ++__i )
-            __res[__i].back() = '.';
 
         return __res;
         

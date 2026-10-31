@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Piechu0401/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2409-count-days-spent-together](https://github.com/Piechu0401/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [2437-number-of-valid-clock-times](https://github.com/Piechu0401/leetcode-solutions/tree/master/2437-number-of-valid-clock-times) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Piechu0401/leetcode-solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Piechu0401/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Piechu0401/leetcode-solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2081-sum-of-k-mirror-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2081-sum-of-k-mirror-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piechu0401/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2437-number-of-valid-clock-times](https://github.com/Piechu0401/leetcode-solutions/tree/master/2437-number-of-valid-clock-times) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Piechu0401/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3272-find-the-count-of-good-integers](https://github.com/Piechu0401/leetcode-solutions/tree/master/3272-find-the-count-of-good-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Piechu0401/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |

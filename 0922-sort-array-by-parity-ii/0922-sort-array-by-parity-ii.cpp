@@ -3,8 +3,8 @@ public:
     inline const vector<int> sortArrayByParityII(
         vector<int>& __ns
     ) const noexcept {
-        int __even{};
-        int __odd{1};
+        short __even{};
+        short __odd{1};
 
         while(
             __odd < __ns.size() && 

@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/Piechu0401/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [0839-similar-string-groups](https://github.com/Piechu0401/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Piechu0401/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Piechu0401/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piechu0401/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Piechu0401/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0481-magical-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/0481-magical-string) |
 | [0809-expressive-words](https://github.com/Piechu0401/leetcode-solutions/tree/master/0809-expressive-words) |
+| [0922-sort-array-by-parity-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/Piechu0401/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1813-sentence-similarity-iii](https://github.com/Piechu0401/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piechu0401/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/Piechu0401/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0726-number-of-atoms](https://github.com/Piechu0401/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0912-sort-an-array](https://github.com/Piechu0401/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/Piechu0401/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Piechu0401/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piechu0401/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Piechu0401/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |

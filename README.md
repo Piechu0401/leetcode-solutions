@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/Piechu0401/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1370-increasing-decreasing-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Piechu0401/leetcode-solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1396-design-underground-system](https://github.com/Piechu0401/leetcode-solutions/tree/master/1396-design-underground-system) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Piechu0401/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1529-minimum-suffix-flips](https://github.com/Piechu0401/leetcode-solutions/tree/master/1529-minimum-suffix-flips) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Piechu0401/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0895-maximum-frequency-stack](https://github.com/Piechu0401/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [1286-iterator-for-combination](https://github.com/Piechu0401/leetcode-solutions/tree/master/1286-iterator-for-combination) |
+| [1396-design-underground-system](https://github.com/Piechu0401/leetcode-solutions/tree/master/1396-design-underground-system) |
 | [2296-design-a-text-editor](https://github.com/Piechu0401/leetcode-solutions/tree/master/2296-design-a-text-editor) |
 | [2502-design-memory-allocator](https://github.com/Piechu0401/leetcode-solutions/tree/master/2502-design-memory-allocator) |
 | [3508-implement-router](https://github.com/Piechu0401/leetcode-solutions/tree/master/3508-implement-router) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Piechu0401/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1370-increasing-decreasing-string](https://github.com/Piechu0401/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1386-cinema-seat-allocation](https://github.com/Piechu0401/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1396-design-underground-system](https://github.com/Piechu0401/leetcode-solutions/tree/master/1396-design-underground-system) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Piechu0401/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Piechu0401/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Piechu0401/leetcode-solutions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
